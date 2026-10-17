@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm SanKLC 👋
 
-<!--
-**SanKLC/SanKLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring computer science (Informatik) student with a strong interest in **cybersecurity**, preparing to study in Germany 🇩🇪.
 
-Here are some ideas to get you started:
+## 🎯 Currently
+- 📚 Preparing for my Informatik studies in Bremen
+- 🇩🇪 Learning German (A2 → C1)
+- 🎮 Learning C# by building a mod for *Mount & Blade II: Bannerlord*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Learning
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🌱 Interests
+Cybersecurity · Game modding · Software development
+
+## 🗣️ Languages
+Turkish (native) · English · German (learning)
